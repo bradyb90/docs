@@ -1167,5 +1167,9 @@
   {
     "from": "/anomaly-detection/brute-force-protection",
     "to": "/anomaly-detection#brute-force-protection"
+  },
+  {
+    "from": "/libraries/lock-android/error-messages",
+    "to": "/libraries/error-messages"
   }
 ]
